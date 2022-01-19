@@ -11,6 +11,21 @@
     <Compile Update="Comerciales\FormulariosComer\FrmProductos.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Cooperativa\FormulariosCoop\Agregar Bus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cooperativa\FormulariosCoop\AgregarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cooperativa\FormulariosCoop\BuscarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cooperativa\FormulariosCoop\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cooperativa\FormulariosCoop\VenderBoleto.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
